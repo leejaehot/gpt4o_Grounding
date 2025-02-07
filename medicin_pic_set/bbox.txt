@@ -1,0 +1,34 @@
+original image size = 4032*3024
+Detected 16 bounding boxes.
+Box 0: x_min=2106, y_min=303, x_max=2992, y_max=880
+Text size: width=66, height=66, baseline=30
+Box 1: x_min=1710, y_min=155, x_max=1983, y_max=890
+Text size: width=66, height=66, baseline=30
+Box 2: x_min=3212, y_min=1076, x_max=3565, y_max=1966
+Text size: width=66, height=66, baseline=30
+Box 3: x_min=2529, y_min=1950, x_max=3949, y_max=2995
+Text size: width=66, height=66, baseline=30
+Box 4: x_min=1801, y_min=1820, x_max=2543, y_max=2932
+Text size: width=66, height=66, baseline=30
+Box 5: x_min=1118, y_min=1806, x_max=1816, y_max=2988
+Text size: width=66, height=66, baseline=30
+Box 6: x_min=1003, y_min=582, x_max=1607, y_max=753
+Text size: width=66, height=66, baseline=30
+Box 7: x_min=183, y_min=1847, x_max=1122, y_max=2443
+Text size: width=66, height=66, baseline=30
+Box 8: x_min=2570, y_min=929, x_max=3181, y_max=1951
+Text size: width=66, height=66, baseline=30
+Box 9: x_min=1216, y_min=1321, x_max=2025, y_max=1799
+Text size: width=126, height=66, baseline=30
+Box 10: x_min=287, y_min=2391, x_max=1118, y_max=2934
+Text size: width=126, height=66, baseline=30
+Box 11: x_min=217, y_min=880, x_max=1134, y_max=1384
+Text size: width=126, height=66, baseline=30
+Box 12: x_min=234, y_min=1322, x_max=1210, y_max=1888
+Text size: width=126, height=66, baseline=30
+Box 13: x_min=2042, y_min=942, x_max=2567, y_max=1805
+Text size: width=126, height=66, baseline=30
+Box 14: x_min=274, y_min=206, x_max=821, y_max=822
+Text size: width=126, height=66, baseline=30
+Box 15: x_min=1172, y_min=890, x_max=2001, y_max=1364
+Text size: width=126, height=66, baseline=30
